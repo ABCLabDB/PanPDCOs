@@ -1,0 +1,9 @@
+Raw file	Seq_Label ID	Sample Tag	Organoid	Sample Methods	Source	DX	Etc	Sex	Age
+PO1-1	128B	Tag1	128B	ERCP	SNUBH	GBC	Pathology (-)	M	73
+PO1-1	116	Tag2	116B	surgical	SNUBH	PDAC	Pathology (+)	F	73
+PO1-1	124	Tag3	124B	ERCP	SNUBH	PDAC	Pathology (-)	F	72
+PO4-2	124-C	Tag4	124C	FNB	SNUBH	PDAC	Suspicious	F	72
+PO4-2	128-A	Tag5	128A	FNB	SNUBH	GBC	Pathology (+)	M	73
+PO7-3	134A	Tag7	134A	FNB	SNUBH	PDAC	Pathology (+)	F	61
+PO7-3	134B	Tag8	134B	ERCP	SNUBH	PDAC	Suspicious	F	61
+PO7-3	124A	Tag9 	124A	FNB	SNUBH	PDAC	Pathology (-)	F	72
