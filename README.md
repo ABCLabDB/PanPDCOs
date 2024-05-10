@@ -11,7 +11,7 @@ This repositiory include source codes for study **"The Origin of Patient-Derived
 ## Data
 **1.scRNASeq**: Contains information on PDAC organoid scRNA-Seq data, including processed data.
 
-**2.CancerPanelSeq**:Includes annotated variant files and metadata for cancer panel-seq data.
+**2.CancerPanelSeq**: Includes annotated variant files and metadata for cancer panel-seq data.
 
 ## Citation
 TBA
